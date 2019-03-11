@@ -3,3 +3,13 @@ description: 'The simple theme'
 author: 'Vladimir Anufriev'
 homepage: /
 code: ''
+form:
+  fields:
+    site_name:
+      label: Site name
+      comment: The global website name
+      default: SimpleTheme
+    site_description:
+      label: Site description
+      comment: The global website description
+      default: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
