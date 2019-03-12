@@ -1,4 +1,10 @@
-# Installation wizard for October
+# Small demonstrate site powered by OctoberCMS
+
+It's includes:
+1. SimpleTheme with a few pages;
+2. Plugin "Links" with one component "Links" (display resources links).
+
+## Installation wizard for October
 
 The wizard installation is a recommended way to install October. It is simpler than the command-line installation and doesn't require any special skills.
 
